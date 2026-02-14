@@ -1,0 +1,38 @@
+name: neon_pulse
+description: A fast-paced Color Match Reflex Game.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # State Management
+  flutter_riverpod: ^2.4.9
+  
+  # Typography
+  google_fonts: ^6.1.0
+  
+  # Storage
+  shared_preferences: ^2.2.2
+  
+  # Animation
+  flutter_animate: ^4.5.0
+  
+  # Haptics & Sound
+  vibration: ^1.8.4
+  audioplayers: ^5.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    # - assets/audio/
+    # - assets/images/
