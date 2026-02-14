@@ -1,6 +1,6 @@
-# ⚡ Neon Pulse
+# ⚡ Neon Pulse Color Matching Game
 
-**Neon Pulse** is a high-octane, neon-themed color matching reflex game built with Flutter. Test your speed, accuracy, and reflexes in this vibrant cyberpunk-inspired challenge.
+ Neon Pulse Color Matching Game is a high-octane, neon-themed color matching reflex game built with Flutter. Test your speed, accuracy, and reflexes in this vibrant cyberpunk-inspired challenge.
 
 ## ✨ Features
 
@@ -44,11 +44,5 @@
 3. **Run the app**
    ```bash
    flutter run
-   ```
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ---
-Developed with ❤️ by [Harshith Palan](https://github.com/Harshithpalan)
+Developed with ❤️ by Harshith Palan
